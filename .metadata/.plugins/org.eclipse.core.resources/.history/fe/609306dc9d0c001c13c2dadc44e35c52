@@ -1,0 +1,5 @@
+package com.techment.dao;
+
+public interface IAuthorDao {
+
+}

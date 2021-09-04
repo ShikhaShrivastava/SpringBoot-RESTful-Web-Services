@@ -1,0 +1,21 @@
+package com.techment.service;
+
+import java.util.List;
+
+import com.techment.entity.Employee;
+
+public class EmployeeService implements IEmployeeService {
+
+	@Override
+	public String addEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Employee> viewAllEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

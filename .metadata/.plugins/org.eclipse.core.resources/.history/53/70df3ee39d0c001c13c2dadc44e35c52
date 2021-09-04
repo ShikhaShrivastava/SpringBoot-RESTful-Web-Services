@@ -1,0 +1,8 @@
+package com.techment.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+public interface IAuthorDao  extends JpaRepository<Author, Integer>{
+
+}
