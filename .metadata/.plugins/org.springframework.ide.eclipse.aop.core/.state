@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="SpringBoot-First-App"/>
 <aop-project name="SpringBootJPA"/>
-<aop-project name="SpringBootJPA-1"/>
+<aop-project name="SpringAssignment1"/>
+<aop-project name="RestFulDemo"/>
+<aop-project name="SpringBootProject"/>
 </aop-reference-model>
